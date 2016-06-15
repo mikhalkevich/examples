@@ -21,4 +21,4 @@ class javascript extends Books {
   }
 }
 
-new javascript("Mikhalkevich","ќзнакомьтесь с моей книгой по JavaScript","http://mikhalkevich.colony.by/media/JavaScript%20PRO.docx").author();
+new javascript("Mikhalkevich","This is my book 'JavaScript PRO'","http://mikhalkevich.colony.by/media/JavaScript%20PRO.docx").author();
