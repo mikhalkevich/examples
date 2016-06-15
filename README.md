@@ -1,5 +1,6 @@
 # Примеры кода
 На стороне фронтенда приходилось решать следующие задачи: 
+ * модальное окно на Ajax [modal-window.js](https://github.com/mikhalkevich/examples/blob/master/modal-window.js)
  * видео-плейер [video.js](https://github.com/mikhalkevich/examples/blob/master/video.js)
  * рисование на холсте
  * перетаскивание html-элементов и файлов
