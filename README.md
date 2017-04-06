@@ -1,11 +1,11 @@
 # Примеры кода
-##Бэкэнд:
+## Бэкэнд 
  * PHP, MySQL, Laravel
  * RESTful programming [RestfullApi](https://github.com/mikhalkevich/RestfullApi),
  * Android [GeoQuiz](https://github.com/mikhalkevich/GeoQuiz)
  * Использую ООП, архитектурный шаблон MVC, HMVC
  * Разработка систем управления контентом, 
-##Фронтенд: 
+## Фронтенд  
  * Модальное окно на Ajax [modal-window.js](https://github.com/mikhalkevich/examples/blob/master/modal-window.js)
  * Видео-плейер [video.js](https://github.com/mikhalkevich/examples/blob/master/video.js)
  * Игры на холсте [JavaScript game]( https://github.com/mikhalkevich/losos) 
